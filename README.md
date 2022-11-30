@@ -1,2 +1,3 @@
 # TUM_EngineeringDatabases
-SQL
+Engineering Databases given at Technical University of Munich
+Relational Databases, SQL
