@@ -1,7 +1,7 @@
 ###############################
 # Git Line Endings            #
 ###############################
-
+*.sql linguist-detectable=true
 # Set default behaviour to automatically normalize line endings.
 * text=auto
 
